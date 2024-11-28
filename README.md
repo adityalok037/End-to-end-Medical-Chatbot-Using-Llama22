@@ -9,3 +9,7 @@ conda create -n mchatbot python==3.12.3 -y
 ```bash
 conda activate mchatbot
 ```
+
+```bash 
+pip isntall -r requirement.txt
+```
